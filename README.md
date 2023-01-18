@@ -1,6 +1,6 @@
 # Analyzing_school_district_using_Pandas
 
-Summary
+## Summary
 
 In this project I utilized the pandas library to process and analyze two csv files consisting of school and student data. 
 
